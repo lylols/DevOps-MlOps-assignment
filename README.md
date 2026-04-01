@@ -2,6 +2,8 @@
 
 A modern, beautiful calendar web application with integrated task management built with **Next.js**.
 
+Live on - https://dev-ops-ml-ops-assignment.vercel.app/
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-green?logo=github-actions)
